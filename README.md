@@ -18,3 +18,4 @@ Students will collaborate to add:
     * Partner name: Benjamin Falls
 3. Who will implement responsive images?
     * Partner name: Whoever finishes first.
+
